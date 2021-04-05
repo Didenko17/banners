@@ -7,8 +7,20 @@ h1{
   margin: 0;
   padding: 10px 0;
   text-align: center;
+  color: #fff;
+}
+label{
+  margin: 15px;
 }
 
+.input{
+  display: block;
+  margin: 15px;
+  width: 200px;
+}
+.button{
+  margin: 15px;
+}
 .App-header {
   height: 100px;
   font-size: calc(10px + 2vmin);
@@ -16,10 +28,4 @@ h1{
 
 .App-link {
   color: #61dafb;
-}
-
-
-.banner {
-  border-radius: 20px;
-  text-align: center;
 }
