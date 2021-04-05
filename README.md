@@ -1,1 +1,7 @@
 # banners
+
+To start project swtich to client path. Run ```npm i``` and after this run ```npm start```. 
+
+**Some banners could not export as PNG, because CORS privacy. Just try another PNG**
+
+If you still have some truble, contact me in Telegram @Didenko17
